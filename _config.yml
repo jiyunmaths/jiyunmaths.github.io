@@ -13,7 +13,7 @@
 title: Shuangxi Ji's personal website
 
 # Your name to show in the footer
-author: Some Person
+author: Shuangxi Ji
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -52,10 +52,10 @@ social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: jiyunmaths
+  twitter: sxj307
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali

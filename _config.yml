@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Shuangxi Ji's Personal Website
+title: Shuangxi Ji
 
 # Your name to show in the footer
 author: Shuangxi Ji
@@ -20,8 +20,10 @@ author: Shuangxi Ji
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "index"
+  Research: "research"
   Publications: "publications"
+  About Me: "aboutme"
   
 ################
 # --- Logo --- #

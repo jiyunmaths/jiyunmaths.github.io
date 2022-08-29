@@ -11,15 +11,14 @@ show-avatar: false
 
 --- 
 
-in [Dr. Wenyi Wang lab](https://odin.mdacc.tmc.edu/~wwang7/) at the [department of Bioinformatics and Computational Biology](https://bioinformatics.mdanderson.org/) of [the MD Anderson Cancer Center](https://www.mdanderson.org/).
+in [Dr. Wenyi Wang lab](https://odin.mdacc.tmc.edu/~wwang7/) at [the department of Bioinformatics and Computational Biology](https://bioinformatics.mdanderson.org/) of [the MD Anderson Cancer Center](https://www.mdanderson.org/).
 
-Address: The M.D. Anderson T. Boone Pickens Academic Tower. 1400 Pressler St, Houston, TX 77030
+<u>Address:</u> The M.D. Anderson T. Boone Pickens Academic Tower. 1400 Pressler St, Houston, TX 77030
 
-Email: jiyunmathbham[AT]gmail.com
+<u>Email:</u> jiyunmathbham[AT]gmail.com
 
 <p></p>
 <p></p>
-
 
 
 # Research overview

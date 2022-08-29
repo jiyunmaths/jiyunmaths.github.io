@@ -25,3 +25,11 @@ title: Education & Work Experience
 
 9/2006 - 7/2010: B.S. Mathematics and Applied mathematics, Changsha University of Science and Technology, Hunan, China
 
+<p></p>
+<p></p>
+
+# Skills
+
+---
+
+Proficient in Python, PyTorch, Tensorflow and Keras, Matlab, C/C++, Java, R (including ggplot) and Linux shell script.

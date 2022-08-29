@@ -7,14 +7,16 @@ title: Education & Work Experience
 # Work
 
 ## Work
+---
 10/2019 – Present: Postdoctoral Fellow, the University of Texas MD Anderson Cancer Center, Houston TX (PI: Wenyi Wang)
 
 3/2018 - 8/2019: Algorithm Developer (Team Leader), YuCun Big Data Technology Co., Ltd., Chongqing, P. R. China
 
----
+
 <p></p>
 
 ## Education
+---
 
 10/2013 - 4/2019: Ph.D. Bioscience (computational biology), University of Birmingham, Birmingham, United Kingdom (the Elite Scholarship)
 

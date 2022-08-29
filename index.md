@@ -5,7 +5,7 @@ subtitle:
 show-avatar: false
 ---
 
-![profile-pic](assets/img/ShuangxiJiProfile.png){:style="float: left; width: 240px; margin-right: 7px; margin-top: -10px; :class="img-responsive"}
+![profile-pic](assets/img/ShuangxiJiProfile.png){:style="float: left; width: 220px; margin-right: 15px; margin-top: 10px; :class="img-responsive"}
 
 # Postdoctoral researcher 
 in [Dr. Wenyi Wang lab](https://odin.mdacc.tmc.edu/~wwang7/) at the [department of Bioinformatics and Computational Biology](https://bioinformatics.mdanderson.org/) of [the MD Anderson Cancer Center](https://www.mdanderson.org/).
@@ -16,7 +16,7 @@ Email: jiyunmathbham[AT]gmail.com
 
 <p></p>
 
-<div markdown="1"># Research overview</div>
+<div markdown="1"> # Research overview </div>
 
 ---
 My current research centers on studying the evolution of human tumors in both genomics and transcriptomics by analyzing bulk and single cell sequencing data. 

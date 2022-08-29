@@ -10,7 +10,7 @@ Cao, S.*, Wang, J. R.*, <b>Ji, S.</b>*, Yang, P., Dai, Y., Guo, S., et al. Estim
 </li>
 
 <li> 
-<b>Ji, S.</b>, Montierth, M. D. . & Wang, W. MuSE: A Novel Approach to Mutation Calling with Sample-Specific Error Modeling. in Variant Calling 21–27 (Springer, 2022). [<a href="https://link.springer.com/protocol/10.1007/978-1-0716-2293-3_2">read</a>]
+<b>Ji, S.</b>, Montierth, M. D. . & Wang, W. MuSE: A Novel Approach to Mutation Calling with Sample-Specific Error Modeling. Variant Calling. 21–27 (Springer, 2022). [<a href="https://link.springer.com/protocol/10.1007/978-1-0716-2293-3_2">read</a>]
 </li>
 
 <li> 
@@ -22,11 +22,11 @@ Jiang, Y., Yu, K., <b>Ji, S.</b>, Shin, S. J., Cao, S., Montierth, M. D., et al.
 </li>
 
 <li> 
-<b>Ji, S.</b> Improving protein structure prediction using amino acid contact \& distance prediction. (University of Birmingham, 2019). [<a href="https://etheses.bham.ac.uk/id/eprint/9044/7/Ji2019PhD.pdf">read</a>] 
+<b>Ji, S.</b> Improving protein structure prediction using amino acid contact & distance prediction. (University of Birmingham, 2019). [<a href="https://etheses.bham.ac.uk/id/eprint/9044/7/Ji2019PhD.pdf">read</a>] 
 </li>
 
 <li> 
-<b>Ji, S.</b>, Oruç, T., Mead, L., Rehman, M. F., Thomas, C. M., Butterworth, S., et al. DeepCDpred: Inter-residue Distance and Contact Prediction for Improved Prediction of Protein Structure. bioRxiv (2018) doi:10.1101/425785. [<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205214">read</a>]
+<b>Ji, S.</b>,  Oruç, T., Mead, L., Rehman, M. F., Thomas, C. M., Butterworth, S., et al. DeepCDpred: Inter-residue distance and contact prediction for improved prediction of protein structure. PLoS One 14, e0205214 (2019). [<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205214">read</a>]
 </li>
 
 <li> 
@@ -38,7 +38,7 @@ Huang, X., Sun, L., <b>Ji, S.</b>, Zhao, T., Zhang, W., Xu, J., et al. Kissing a
 </li>
 
 <li> 
-<b>Ji, S.</b>, Ye, C., Li, F., Sun, W., Zhang, J., Huang, Y., et al. Automatic segmentation of white matter hyperintensities by an extended FitzHugh \& Nagumo reaction diffusion model. J. Magn. Reson. Imaging 37, 343–350 (2013). [<a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/jmri.23836">read</a>]
+<b>Ji, S.</b>, Ye, C., Li, F., Sun, W., Zhang, J., Huang, Y., et al. Automatic segmentation of white matter hyperintensities by an extended FitzHugh & Nagumo reaction diffusion model. J. Magn. Reson. Imaging 37, 343–350 (2013). [<a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/jmri.23836">read</a>]
 </li>
 
 <li> 

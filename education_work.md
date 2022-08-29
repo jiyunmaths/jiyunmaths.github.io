@@ -9,6 +9,8 @@ title: Education & Work Experience
 
 3/2018 - 8/2019: Algorithm Developer (Team Leader), YuCun Big Data Technology Co., Ltd., Chongqing, P. R. China
 
+<p>
+
 ### Education
 2013 - 2019: Ph.D. Bioscience (computational biology), University of Birmingham, Birmingham, United Kingdom (the Elite Scholarship)
 2010 - 2013: M.S. Biomedical Engineering, Peking University, Beijing, China

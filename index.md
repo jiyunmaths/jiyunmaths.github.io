@@ -24,7 +24,7 @@ in [Dr. Wenyi Wang lab](https://odin.mdacc.tmc.edu/~wwang7/) at [the department 
 # Research overview
 
 ---
-My current research centers on studying the evolution of human tumors in both genomics and transcriptomics by analyzing bulk and single cell sequencing data. 
+My current research centers on studying the evolution of human tumors in both genomics and transcriptomics by analyzing bulk and single cell sequencing data. More introductions can be found [here](research).
 
 # News
 

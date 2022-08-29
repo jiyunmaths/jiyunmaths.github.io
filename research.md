@@ -3,10 +3,11 @@ layout: page
 title: Research
 ---
 
-### Current research
+# Current research
 
 
-### Previous research
+# Previous research
+---
 
 #### 3/2018 – 8/2019 Chongqing, P. R. China
 _*Deep Learning Based Natural Language Processing (YuCun Big Data Technology Co., Ltd.).*_ I was working as the team leader of the algorithm development for natural language processing. We used deep convolutional networks, recurrent networks (e.g., LSTM), as well as recently developed deep learning models (e.g., BERT, GPT) to classify documents, extract abstract from documents and identify entities (including company name, person name and address). 

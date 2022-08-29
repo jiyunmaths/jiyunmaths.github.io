@@ -4,7 +4,7 @@ title: Education & Work Experience
 ---
 
 
-## Work & training
+# Work & training
 
 ---
 10/2019 – Present: Postdoctoral Fellow, the University of Texas MD Anderson Cancer Center, Houston TX (PI: Wenyi Wang)
@@ -13,8 +13,9 @@ title: Education & Work Experience
 
 
 <p></p>
+<p></p>
 
-## Education
+# Education
 
 ---
 

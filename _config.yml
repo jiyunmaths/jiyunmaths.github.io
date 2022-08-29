@@ -23,6 +23,7 @@ navbar-links:
   Home: "index"
   Research: "research"
   Publications: "publications"
+  Education & Work: "education_work"
   About Me: "aboutme"
   
 ################
@@ -52,6 +53,8 @@ social-network-links:
   facebook: shuangxiji
   github: jiyunmaths
   twitter: sxj307
+  google-scholar: jiyunmaths
+  linkedin: shuangxiji
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali

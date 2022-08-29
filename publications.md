@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 
+title: Publications
 ---
 
 <ol reversed>
 
 <li>  
-Cao, S.#, Wang, J. R.#, <b>Ji, S.</b>#, Yang, P., Dai, Y., Guo, S., et al. Estimation of tumor cell total mRNA expression in 15 cancer types predicts disease progression. Nat. Biotechnol. 1–10 (2022). [<a href="https://www.nature.com/articles/s41587-022-01342-x"> read</a>] <br> #: contributed equally. 
+Cao, S.*, Wang, J. R.*, <b>Ji, S.</b>*, Yang, P., Dai, Y., Guo, S., et al. Estimation of tumor cell total mRNA expression in 15 cancer types predicts disease progression. Nat. Biotechnol. 1–10 (2022). [<a href="https://www.nature.com/articles/s41587-022-01342-x"> read</a>] <br> *: contributed equally. 
 </li>
 
 <li> 

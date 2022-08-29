@@ -4,9 +4,8 @@ title: Education & Work Experience
 ---
 
 
-# Work
+## Work & training
 
-## Work
 ---
 10/2019 – Present: Postdoctoral Fellow, the University of Texas MD Anderson Cancer Center, Houston TX (PI: Wenyi Wang)
 
@@ -16,6 +15,7 @@ title: Education & Work Experience
 <p></p>
 
 ## Education
+
 ---
 
 10/2013 - 4/2019: Ph.D. Bioscience (computational biology), University of Birmingham, Birmingham, United Kingdom (the Elite Scholarship)

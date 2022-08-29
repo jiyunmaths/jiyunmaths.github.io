@@ -5,7 +5,7 @@ subtitle:
 show-avatar: false
 ---
 
-![profile-pic](assets/img/ShuangxiJiProfile.png){:style="float: left; width: 220px; margin-right: 15px; margin-top: 10px; :class="img-responsive"}
+![profile-pic](assets/img/ShuangxiJiProfile.png){:style="float: left; width: 230px; margin-right: 15px; margin-top: 10px; :class="img-responsive"}
 
 # Postdoctoral researcher 
 

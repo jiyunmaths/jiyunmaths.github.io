@@ -18,9 +18,8 @@ Email: jiyunmathbham[AT]gmail.com
 
 <div markdown="1"># Research overview</div>
 
-
 ---
-
+My current research centers on studying the evolution of human tumors in both genomics and transcriptomics by analyzing bulk and single cell sequencing data. 
 
 # News
 

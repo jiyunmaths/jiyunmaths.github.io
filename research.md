@@ -7,8 +7,8 @@ title: Research
 
 ---
 
-#### The evolution of transcriptomics for tumor. 
-
+#### The evolution of transcriptomics for tumor
+In our [recently published paper](https://www.nature.com/articles/s41587-022-01342-x), the prognosis can be reflected by the **transcriptome ploidy** of a tumor. It is rarely studied, yet very interesting topic is that what is the difference of transcriptomics in different tumor evolutional branches. This investigation may identify treatment and metastasis specific tumor subclones, inspiring better drug development methods. 
 
 #### Develop fast tools for tumor squencing data analysis
 Given the large size of next generation sequencing data, commonly used tools for mutation calling and deconvolution usually take a very long time for a patient cohort, such as weeks if not months. Fast tools that utilize the power of multi-cores, GPU and TPU are urgently needed to sigfinicantly reduce the time cost, thus greatly 

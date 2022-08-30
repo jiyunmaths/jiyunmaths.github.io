@@ -12,8 +12,7 @@ title: Education & Work Experience
 3/2018 - 8/2019: Algorithm Developer (Team Leader), YuCun Big Data Technology Co., Ltd., Chongqing, P. R. China
 
 
-<p></p>
-<p></p>
+<br />
 
 # Education
 
@@ -25,8 +24,7 @@ title: Education & Work Experience
 
 9/2006 - 7/2010: B.S. Mathematics and Applied mathematics, Changsha University of Science and Technology, Hunan, China
 
-<p></p>
-<p></p>
+<br />
 
 # Skills
 

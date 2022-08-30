@@ -7,6 +7,17 @@ title: Research
 
 ---
 
+#### The evolution of transcriptomics for tumor. 
+
+
+#### Develop fast tools for tumor squencing data analysis
+Given the large size of next generation sequencing data, commonly used tools for mutation calling and deconvolution usually take a very long time for a patient cohort, such as weeks if not months. Fast tools that utilize the power of multi-cores, GPU and TPU are urgently needed to sigfinicantly reduce the time cost.
+
+
+#### pathological image data analysis
+
+
+
 <p></p>
 
 

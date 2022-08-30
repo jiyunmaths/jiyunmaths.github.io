@@ -17,7 +17,7 @@ Given the large size of next generation sequencing data, commonly used tools for
 #### Pathological image data analysis
 Histopathological imaging (e.g., H&E) examination is still a gold standard today for cancer dianosis and stage classification. These images usually have a high resolution at single cell/nucleus. The morphology of tumor cells, as well as the spatial distribution of tumor infiltrating immune cells are supposed to reflect the tumor genotype and patient's prognosis. Machine learning, specifically deep learning models, can be applied in this field.
 
-<p></p>
+<br />
 
 
 # Previous research
